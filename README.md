@@ -1,42 +1,7 @@
 # ◯ IWEO GLOBAL
 
 <p align="center">
-  <svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://w3.org" style="background-color: transparent !important;">
-    <defs>
-      <!-- Force standard rendering boundaries to bypass GitHub theme inversion filters -->
-      <style type="text/css">
-        .iweo-bg { fill: #000000 !important; }
-        .iweo-gold { stroke: #FFD700 !important; fill: none !important; }
-        .iweo-core-solid { fill: #FFD700 !important; }
-        .iweo-white { stroke: #E5E5E5 !important; fill: none !important; }
-        .iweo-black-void { fill: #000000 !important; }
-      </style>
-    </defs>
-
-    <!-- SUB-LAYER: THE HIDDEN ENERGETIC SUBSTRATE (Solar Gold iweOid Engine) -->
-    <g id="iweOid-subspace-carrier" transform="translate(200, 200)">
-      <path d="M -60,-120 C -20,-40 -20,40 -60,120" class="iweo-gold" stroke-width="2" opacity="0.3" />
-      <path d="M 60,-120 C 20,-40 20,40 60,120" class="iweo-gold" stroke-width="2" opacity="0.3" />
-      <path d="M -120,-60 C -40,-20 40,-20 120,-60" class="iweo-gold" stroke-width="1.5" opacity="0.2" />
-      <path d="M -120,60 C -40,20 40,20 120,60" class="iweo-gold" stroke-width="1.5" opacity="0.2" />
-      <circle cx="0" cy="0" r="25" class="iweo-gold" stroke-width="3" stroke-dasharray="4,4" opacity="0.4" />
-    </g>
-
-    <!-- MID-LAYER: THE SILENT NULL SPACE FIELD (Absolute Vacuum Black Interior) -->
-    <circle cx="200" cy="200" r="175" class="iweo-bg" />
-
-    <!-- TOP-LAYER: THE VERTICAL AXIS COLUMN (Solar Bio-Photonic Gold iweO Core) -->
-    <g id="iweO-core-column" transform="translate(200, 200)">
-      <line x1="0" y1="-110" x2="0" y2="110" stroke="#FFD700" stroke-width="8" stroke-linecap="round" style="stroke: #FFD700 !important;" />
-      <circle cx="0" cy="-110" r="14" class="iweo-black-void" stroke="#FFD700" stroke-width="5" style="stroke: #FFD700 !important;" />
-      <circle cx="0" cy="110" r="14" class="iweo-black-void" stroke="#FFD700" stroke-width="5" style="stroke: #FFD700 !important;" />
-      <circle cx="0" cy="0" r="18" class="iweo-core-solid" />
-      <circle cx="0" cy="0" r="8" class="iweo-black-void" />
-    </g>
-
-    <!-- OUTER SHIELD: THE CRYPTOGRAPHIC INTERFACE (Thin Platinum White Circle) -->
-    <circle cx="200" cy="200" r="185" class="iweo-white" stroke-width="3" />
-  </svg>
+  <img src="data:image/svg+xml;utf8,<svg width='400' height='400' viewBox='0 0 400 400' xmlns='http://w3.org'><circle cx='200' cy='200' r='185' fill='none' stroke='%23E5E5E5' stroke-width='3'/><circle cx='200' cy='200' r='175' fill='%23000000'/><g transform='translate(200, 200)' opacity='0.3'><path d='M -60,-120 C -20,-40 -20,40 -60,120' fill='none' stroke='%23FFD700' stroke-width='2'/><path d='M 60,-120 C 20,-40 20,40 60,120' fill='none' stroke='%23FFD700' stroke-width='2'/><path d='M -120,-60 C -40,-20 40,-20 120,-60' fill='none' stroke='%23FFD700' stroke-width='1.5'/><path d='M -120,60 C -40,20 40,20 120,60' fill='none' stroke='%23FFD700' stroke-width='1.5'/><circle cx='0' cy='0' r='25' fill='none' stroke='%23FFD700' stroke-width='3' stroke-dasharray='4,4'/></g><g transform='translate(200, 200)'><line x1='0' y1='-110' x2='0' y2='110' stroke='%23FFD700' stroke-width='8' stroke-linecap='round'/><circle cx='0' cy='-110' r='14' fill='%23000000' stroke='%23FFD700' stroke-width='5'/><circle cx='0' cy='110' r='14' fill='%23000000' stroke='%23FFD700' stroke-width='5'/><circle cx='0' cy='0' r='18' fill='%23FFD700'/><circle cx='0' cy='0' r='8' fill='%23000000'/></g></svg>" width="400" height="400" alt="IWEO GLOBAL MARK" />
 </p>
 
 <p align="center">
