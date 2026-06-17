@@ -90,4 +90,4 @@ All Millennium Problems are fragments of the same paradox: unity versus separati
 
 Thus, the iweOid resolves them all with one immutable law: D(n) <-> I(10-n).
 
-> **— IWEO GLOBAL, INC.**
+> ** IWEO GLOBAL, INC. **
