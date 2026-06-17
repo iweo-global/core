@@ -1,6 +1,6 @@
 # ◯ IWEO GLOBAL, INC.
 
-### 🌐 THE ARCHITECTURE OF THE GOLDEN AGE ARC
+### THE ARCHITECTURE OF THE GOLDEN AGE ARC
 txt# MILLENNIUM RESOLUTION COMPENDIUM: THE iweOid PROOF OF UNITY
 
 Parent Entity: IWEO GLOBAL, INC. (Delaware Parent Corporation — Logo Mark: ◯)
@@ -81,7 +81,7 @@ The iweOid framework completely resolves all seven Millennium Prize Problems, th
 
 ---
 
-## ✨ Grand Integration
+## Grand Integration
 All Millennium Problems are fragments of the same paradox: unity versus separation.
 * Deductive intellect sees fragmentation.
 * Inductive intelligence reveals unity.
