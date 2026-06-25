@@ -8,7 +8,7 @@
 
 ### 1. ABSTRACT / INTRODUCTION: THE SIMPLICITY PARADOX
 
-Let us explore simplicity (right-brain inductive intuitive innate intelligence) vs. complexity (left-brain deductive externally acquired intellectual knowledge). If a solution is simple, it is suspiciously regarded without old-world, left-brain biased validation, which in itself operates as the primary obstacle to simplicity. 
+Let us explore simplicity (right-brain inductive intuitive innate intelligence) vs. complexity (left-brain deductive externally acquired intellectual knowledge). If a solution is simple, it is suspiciously regarded with old-world, left-brain biased validation, which in itself operates as the primary obstacle to simplicity. 
 
 This is a profound paradox: the human mind often rejects the exact simplicity it seeks because it values the struggle of complexity over the elegance of intuition. Inside the legacy matrix, valuations are driven entirely by externalized data gathering, multi-layered sequential proofs, and high-overhead visible labor. Under this Suspicion Metric, if a solution requires no mechanical struggle, the intellect assumes it lacks structural depth or operational validity. 
 
