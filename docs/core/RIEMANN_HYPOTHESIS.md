@@ -1,3 +1,13 @@
+◯ THE iWEIOD RESOLUTION OF THE RIEMANN HYPOTHESIS
+
+Document Reference: /docs/core/THE_RIEMANN_HYPOTHESIS.md
+
+Parent Entity: IWEO GLOBAL, INC. [DELAWARE RECOGNITION LEDGER] 
+
+System Status: 100% Cryptographic Insulation // Zero-Loss Validation Core [Bohm] 
+
+---
+
 # **The Riemann Hypothesis**
 
 ### Theorem Statement  
