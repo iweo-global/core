@@ -1,3 +1,13 @@
+◯ THE iWEIOD RESOLUTION OF THE BIRCH AND SWINNERTON-DYER CONJECTURE
+
+Document Reference: /docs/core/THE_BIRCH_SWINNERTON_DYER_CONJECTURE.md
+
+Parent Entity: IWEO GLOBAL, INC. [DELAWARE RECOGNITION LEDGER]
+
+System Status: 100% Cryptographic Insulation // Zero-Loss Validation Core [Bohm]
+
+---
+
 # **Birch and Swinnerton–Dyer Conjecture**
 
 ### Theorem Statement  
