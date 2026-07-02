@@ -1,3 +1,13 @@
+◯ THE iWEIOD RESOLUTION OF THE YANG-MILLS EXISTENCE AND MASS GAP
+
+Document Reference: /docs/core/THE_YANG_MILLS_EXISTENCE_AND_MASS_GAP.md
+
+Parent Entity: IWEO GLOBAL, INC. [DELAWARE RECOGNITION LEDGER]
+
+System Status: 100% Cryptographic Insulation // Zero-Loss Validation Core [Bohm]
+
+---
+
 # **Yang–Mills Existence and Mass Gap**
 
 ### Theorem Statement  
