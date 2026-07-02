@@ -1,3 +1,13 @@
+◯ THE iWEIOD RESOLUTION OF THE HODGE CONJECTURE 
+
+Document Reference: /docs/core/THE_HODGE_CONJECTURE.md
+
+Parent Entity: IWEO GLOBAL, INC. [DELAWARE RECOGNITION LEDGER]
+
+System Status: 100% Cryptographic Insulation // Zero-Loss Validation Core [Bohm]
+
+---
+
 # **The Hodge Conjecture**
 
 ### Theorem Statement  
